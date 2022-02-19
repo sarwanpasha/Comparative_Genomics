@@ -1,0 +1,16 @@
+Buldecovirus,count,Embecovirus,count,Igacovirus,count,Merbecovirus,count,Pedacovirus,count,Sarbecovirus,count
+bird,24,camel,6,bird,16,bat,21,bat,1,bat,119
+pig,123,cow,85,chicken,321,camel,256,pig,369,bird,1
+,,dog,1,unknown,7,hedgehog,4,,,cat,275
+,,horse,6,,,human,1,,,coati,1
+,,human,48,,,unknown,7,,,deer,147
+,,pig,4,,,,,,,dog,65
+,,primate,4,,,,,,,environment,3423
+,,rabbit,5,,,,,,,hippopotamus,1
+,,rodent,17,,,,,,,human,2874
+,,,,,,,,,,pangolin,14
+,,,,,,,,,,primate,21
+,,,,,,,,,,rodent,43
+,,,,,,,,,,unknown,199
+,,,,,,,,,,vero-cells,39
+,,,,,,,,,,weasel,1189
